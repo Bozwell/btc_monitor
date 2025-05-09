@@ -28,3 +28,6 @@ docker가 설치된 환경에서 git 으로 소스를 clone받은후 build.sh를
 ```
 sh build.sh
 ```
+
+### References
+- [upbit api reference](https://docs.upbit.com/kr/reference)
